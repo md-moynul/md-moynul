@@ -44,6 +44,22 @@ When I step away from the screen, you might find me exploring new tech communiti
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+
+
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=md-moynul&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+</div>
+
+---
 ## 🔥 Languages & Frameworks & Tools 🔥
 
 <div align="center">
