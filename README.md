@@ -118,8 +118,7 @@ Create, organize and track daily tasks — clean UI with smooth client-side stat
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=md-moynul&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=md-moynul&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 </div>
 
 ---
