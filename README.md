@@ -44,6 +44,69 @@ When I step away from the screen, you might find me exploring new tech communiti
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏟️ SportNest
+**Full-Stack Sports Booking Platform**
+
+[![Live](https://img.shields.io/badge/Live-Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://sportnest-gamma.vercel.app)
+[![Frontend](https://img.shields.io/badge/Frontend-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/md-moynul/sportnest)
+[![Backend](https://img.shields.io/badge/Backend-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/md-moynul/sportnest-server)
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+Book sports slots, manage venues — full MERN stack with JWT auth and Vercel deployment.
+
+</td>
+<td width="50%" valign="top">
+
+### 🐄 QurbaniHat
+**Livestock Booking Platform**
+
+[![Live](https://img.shields.io/badge/Live-Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://qurbanihat.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/md-moynul/qurbanihat)
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Better Auth](https://img.shields.io/badge/Better_Auth-6366F1?style=flat-square&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logoColor=white)
+
+Browse, filter and book livestock for Qurbani — real-time filtering with secure auth.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ Keen Keeper
+**Smart Task Management Platform**
+
+[![Live](https://img.shields.io/badge/Live-Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://keen-keeper.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/md-moynul/keen-keeper)
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+Create, organize and track daily tasks — clean UI with smooth client-side state management.
+
+</td>
+<td width="50%" valign="top">
+<!-- Add your next project here -->
+</td>
+</tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
