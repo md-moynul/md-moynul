@@ -17,7 +17,7 @@
 
 ## 🌐 About Me
 
-I'm a passionate **Fronted Web Developer** exploring the world of React, Node.js, and modern web technologies. My journey began with small projects that often broke spectacularly — and that's exactly how I fell in love with programming. Every crash, bug, and late-night debug session taught me something new, shaping the developer I am today.
+I'm a passionate ** Front-End Web Developer** exploring the world of React, Node.js, and modern web technologies. My journey began with small projects that often broke spectacularly — and that's exactly how I fell in love with programming. Every crash, bug, and late-night debug session taught me something new, shaping the developer I am today.
 
 By day, I focus on building responsive and user-friendly web applications; by night, I explore side projects, learn new frameworks, and push my skills further. My terminal is always open, coffee is usually cold, and my Git history tells stories that are sometimes funnier than they should be. 😄
 
