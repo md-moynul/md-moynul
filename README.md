@@ -70,8 +70,8 @@ Book sports slots, manage venues — full MERN stack with JWT auth and Vercel de
 ### 🐄 QurbaniHat
 **Livestock Booking Platform**
 
-[![Live](https://img.shields.io/badge/Live-Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://qurbanihat.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/md-moynul/qurbanihat)
+[![Live](https://img.shields.io/badge/Live-Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://qurbani-hat-nine.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/md-moynul/qurbani-hat)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![Better Auth](https://img.shields.io/badge/Better_Auth-6366F1?style=flat-square&logoColor=white)
@@ -88,7 +88,7 @@ Browse, filter and book livestock for Qurbani — real-time filtering with secur
 ### ✅ Keen Keeper
 **Smart Task Management Platform**
 
-[![Live](https://img.shields.io/badge/Live-Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://keen-keeper.vercel.app)
+[![Live](https://img.shields.io/badge/Live-Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://keen-keeper-iota.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/md-moynul/keen-keeper)
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
