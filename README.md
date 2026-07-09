@@ -1,6 +1,7 @@
 <div align="center">
+<img width="1400" height="349" alt="1780512258644" src="https://github.com/user-attachments/assets/8b4d2b85-3ff2-475e-9ce9-b273cbe41c55" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MD%20Moynul%20Islam&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Fronted%20Web%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=20" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MD%20Moynul%20Islam&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Fronted%20Web%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=20" width="100%"/> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=React+%7C+Node.js+%7C+MongoDB+%7C+Tailwind;Building+Modern+Website+%F0%9F%9A%80;Open+to+Collaboration+%26+Opportunities;Let's+Build+Something+Great!+%F0%9F%A4%9D" alt="Typing SVG" />
 
@@ -182,5 +183,5 @@ Intuitive task manager with drag-and-drop functionality, categorization, and pro
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/> -->
 </div>
