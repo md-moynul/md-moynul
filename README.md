@@ -72,6 +72,7 @@ When I step away from the screen, you might find me exploring new tech communiti
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -164,9 +165,7 @@ Intuitive task manager with drag-and-drop functionality, categorization, and pro
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=md-moynul&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-moynul&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/md-moynul)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-moynul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/md-moynul)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-moynul&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
