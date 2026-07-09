@@ -6,7 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-moynul-islam47)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-moynul)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mdmoynulislam8)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmmdmoynulislam@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=md-moynul&style=for-the-badge&color=6366f1)](https://github.com/md-moynul)
@@ -25,7 +25,15 @@ When I step away from the screen, you might find me exploring new tech communiti
 
 ---
 
+## 🌟 Current Activities
+
+- 🔭 **Exploring Next.js** and advanced React patterns for better performance and SEO
+- 🌱 **Working on** a comprehensive tourism website with real-time features
+- 💡 Building full-stack applications with modern tools (Next.js, Tailwind, MongoDB)
+- 🤝 Open to **collaborations**, freelance opportunities, and knowledge sharing
+- 📚 Continuously improving skills in TypeScript, system design, and scalable architectures
 ## 💁 Talking about Personal Stuff
+---
 
 <img align="right" src="https://raw.githubusercontent.com/rashedulislam595/rashedulislam595/main/gift/giftCoding.gif" width="320" />
 
@@ -41,6 +49,29 @@ When I step away from the screen, you might find me exploring new tech communiti
 - 🎨 &nbsp;Clean UI design and great user experiences
 
 <br clear="right"/>
+---
+
+## 🛠️ Skills & Technologies
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-6366F1?style=for-the-badge&logoColor=white)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -48,6 +79,23 @@ When I step away from the screen, you might find me exploring new tech communiti
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+### 🍳 Reciply
+**Recipe Management & Discovery Platform**
+
+[![Live](https://img.shields.io/badge/Live-Demo-6366F1?style=flat-square&logo=vercel&logoColor=white)](https://recipely-beta.vercel.app/)
+[![Frontend](https://img.shields.io/badge/Frontend-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/md-moynul/recipely)
+[![Backend](https://img.shields.io/badge/Backend-Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/md-moynul/recipely-server)
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Better_Auth-6366F1?style=flat-square&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+A beautiful recipe sharing and management platform. Users can browse, save, create, and discover recipes with modern UI and secure authentication.
+
+</td>
 <td width="50%" valign="top">
 
 ### 🏟️ SportNest
@@ -62,9 +110,11 @@ When I step away from the screen, you might find me exploring new tech communiti
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Book sports slots, manage venues — full MERN stack with JWT auth and Vercel deployment.
+A comprehensive platform for booking sports slots and managing venues. Features JWT authentication, real-time updates, and smooth user experience.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🐄 QurbaniHat
@@ -76,13 +126,10 @@ Book sports slots, manage venues — full MERN stack with JWT auth and Vercel de
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![Better Auth](https://img.shields.io/badge/Better_Auth-6366F1?style=flat-square&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logoColor=white)
 
-Browse, filter and book livestock for Qurbani — real-time filtering with secure auth.
+Modern platform for browsing, filtering, and booking livestock. Implements secure authentication and real-time search/filter functionality.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ✅ Keen Keeper
@@ -93,15 +140,12 @@ Browse, filter and book livestock for Qurbani — real-time filtering with secur
 
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Create, organize and track daily tasks — clean UI with smooth client-side state management.
+Intuitive task manager with drag-and-drop functionality, categorization, and progress tracking.
 
 </td>
-<td width="50%" valign="top">
-<!-- Add your next project here -->
-</td>
+
 </tr>
 </table>
 
@@ -119,32 +163,11 @@ Create, organize and track daily tasks — clean UI with smooth client-side stat
 <div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=md-moynul&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=md-moynul&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/md-moynul)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=md-moynul&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/md-moynul)
 </div>
-
----
-## 🔥 Languages & Frameworks & Tools 🔥
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-
 
 ---
 
@@ -154,7 +177,7 @@ Create, organize and track daily tasks — clean UI with smooth client-side stat
 
 <p>I'm always open to interesting projects, collaboration, or just a good tech conversation. Feel free to reach out!</p>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-moynul-islam47)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-moynul)
 [![Send Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmmdmoynulislam@gmail.com)
 
 </div>
