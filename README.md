@@ -1,5 +1,6 @@
 <div align="center">
-<img width="1400" height="349" alt="1780512258644" src="https://github.com/user-attachments/assets/8b4d2b85-3ff2-475e-9ce9-b273cbe41c55" />
+<img width="1584" height="396" alt="Grey and Black Simple Marketing LinkedIn Banner" src="https://github.com/user-attachments/assets/b9e7411e-6b6d-4fc9-91a6-de27417ff805" />
+<!-- <img width="1400" height="349" alt="1780512258644" src="https://github.com/user-attachments/assets/8b4d2b85-3ff2-475e-9ce9-b273cbe41c55" /> -->
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MD%20Moynul%20Islam&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Fronted%20Web%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=20" width="100%"/> -->
 
